@@ -9,5 +9,6 @@ def word_substituter(tweet)
     "too"
     "for"
     "four"
+    "be"
     
   }
