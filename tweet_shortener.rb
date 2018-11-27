@@ -6,5 +6,6 @@ def word_substituter(tweet)
     "hello" => "hi",
     "to"
     "two"
+    "too"
     
   }
