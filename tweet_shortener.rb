@@ -7,5 +7,6 @@ def word_substituter(tweet)
     "to"
     "two"
     "too"
+    "for"
     
   }
