@@ -5,5 +5,6 @@ def word_substituter(tweet)
   dictionary = {
     "hello" => "hi",
     "to"
+    "two"
     
   }
